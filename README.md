@@ -1,3 +1,3 @@
-# NZ-Tax-System
+# Small Python scripts
 
-Simple Python script which calculates effective tax rate from New Zealands progressive income tax system.
+Simple Python scripts
